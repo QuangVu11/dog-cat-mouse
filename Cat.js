@@ -1,4 +1,7 @@
 function cat()
 {
+
+}
+function mouse() {
 	
 }
